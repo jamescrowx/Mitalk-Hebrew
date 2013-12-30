@@ -7,9 +7,9 @@
     <string name="locale_name_in_rID">Bahasa Indonesia</string>
     <string name="locale_name_default">מערכת</string>
     <string name="namecard_item_add_more_social_experience">הוסף מידע</string>
-    <string name="company_name_invalid">Please enter between 3–100 chars, name must include characters, spaces and numbers.</string>
-    <string name="err_code_24006_msg">Server is currently unavailable, please try again later.</string>
-    <string name="smiley_download_more">Download add-on</string>
+    <string name="company_name_invalid">אנא רשמו שם עם 3-100 אותיות</string>
+    <string name="err_code_24006_msg">השרת אינו זמין, אנא נסו שוב מאוחר יותר</string>
+    <string name="smiley_download_more">הורד תוספות</string>
     <string name="welcome_message_xiaomi_news">Read MiTalk news 6:30pm every evening to stay in touch with the world!</string>
     <string name="common_email_not_for_secret">Non-secure mailbox</string>
     <string name="smiley_sdcard_full">Storage space is full, please free up some space!</string>
